@@ -10,6 +10,4 @@ Hello! 👋 My name is Mehmet, I am 21 years old, and I am a student of informat
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehmetgokel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetgokel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgokel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
